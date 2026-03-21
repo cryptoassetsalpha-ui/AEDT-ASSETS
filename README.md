@@ -29,6 +29,4 @@ https://tronscan.org/#/token20/TV714TT9aQftbkYBjWiVExCxNZm9nPJX6K
 
 https://dexscreener.com/tron/tkwar9bkjdyl3rhkqxodiyp2j9rhndl3rn
 
-## Disclaimer
 
-AEDT is an independent digital asset and is not affiliated with Tether (USDT).
